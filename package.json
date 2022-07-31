@@ -1,0 +1,15 @@
+{
+  "name": "toykv",
+  "version": "1.0.0",
+  "description": "in-memory transactional key value store with repl interface",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nate Goldman <ungoldman@gmail.com> (https://ungoldman.com/)",
+  "license": "ISC"
+}
